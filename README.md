@@ -1,4 +1,4 @@
-#Linux、Python、自动化运维、Docker技术培训【深圳 第一期】
+##Linux、Python、自动化运维、Docker技术培训【深圳 第一期】
 
 ##一、Docker技术实战
 
@@ -67,7 +67,7 @@
 <br />
 <br />
 
-#【有意向请加群 运维大本营（同学群）群：222171081】
+##【有意向请加群 运维大本营（同学群）群：222171081】
 ##联系讲师
 * 邮件(liutiansi@gmail.com)
 * weibo: [@yorkoliu](http://weibo.com/u/1775431677)
