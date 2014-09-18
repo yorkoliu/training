@@ -70,8 +70,4 @@
 <br />
 <br />
 
-##【有意向请加群 运维大本营（同学群）群：222171081】
-##联系讲师
-* 邮件(liutiansi@gmail.com)
-* weibo: [@yorkoliu](http://weibo.com/u/1775431677)
-* blog: [blog.liuts.com](http://blog.liuts.com)
+###【有意向请加群 运维大本营（同学群）群：222171081】
