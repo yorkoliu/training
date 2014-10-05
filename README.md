@@ -1,30 +1,8 @@
 ##Python、自动化运维、Docker技术、大数据培训
+
 【深圳 第一期】
 
-##一、Docker技术实战
-
-###1、课程目标
-        了解 Docker 的基本概念、部署、应用、维护与管理、DockerPaas平台的设计与实施等，帮助学员掌握
-      Docker企业级服务应用支撑。
-  
-###2、课程大纲
-* Docker 简介
-* Docker 的安装部署
-* Docker 镜像管理
-* Docker Dockerfile
-* Docker 容器管理
-* Docker 仓库管理
-* Docker 资源管理
-* Docker 安全策略
-* Docker 案例实践
-* Docker python API
-* Docker Pass平台设计与实现
-
-###3、课时安排与培训方式
-* 32个课时，单课时40分钟
-* 面对面授课
-
-##二、Python与自动化运维实践
+##一、Python与自动化运维实践
 
 ###1、课程目标
         了解Python语言的基本知识，介绍Python常用自动化管理工具，使用Python编写自动运维管理平台
@@ -49,7 +27,7 @@
 * 40个课时，单课时40分钟
 * 面对面授课
 
-##三、Python大数据应用实践
+##二、Python大数据应用实践
 
 ###1、课程目标
         了解Hadoop的基本知识及Mapreduce计算，介绍Python mr计算框架编写常用任务，
@@ -68,7 +46,31 @@
 ###3、课时安排与培训方式
 * 30个课时，单课时40分钟
 * 面对面授课
+
+【深圳 第二期】
+
+##三、Docker技术实战
+
+###1、课程目标
+        了解 Docker 的基本概念、部署、应用、维护与管理、DockerPaas平台的设计与实施等，帮助学员掌握
+      Docker企业级服务应用支撑。
   
+###2、课程大纲
+* Docker 简介
+* Docker 的安装部署
+* Docker 镜像管理
+* Docker Dockerfile
+* Docker 容器管理
+* Docker 仓库管理
+* Docker 资源管理
+* Docker 安全策略
+* Docker 案例实践
+* Docker python API
+* Docker Pass平台设计与实现
+
+###3、课时安排与培训方式
+* 32个课时，单课时40分钟
+* 面对面授课  
 <br />
 <br />
 
