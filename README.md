@@ -41,7 +41,9 @@
 * saltstack系统管理
 * func系统管理
 * 从“零”开始打造B/S自动化运维平台
+![omserver](http://blog.liuts.com/attachment/201410/1412483222_9836d808.png)
 * 打造Linux系统安全审计功能
+![omserver](http://blog.liuts.com/attachment/201410/1412483222_1313028a.png)
 
 ###3、课时安排与培训方式
 * 40个课时，单课时40分钟
