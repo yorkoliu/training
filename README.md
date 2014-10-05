@@ -1,6 +1,6 @@
 ##Python、自动化运维、Docker技术、大数据培训
 
-##【深圳 第一期】
+##============【深圳 第一期】=============
 
 ###一、Python与自动化运维实践
 
@@ -22,6 +22,8 @@
 ![omserver](http://blog.liuts.com/attachment/201410/1412483222_9836d808.png)
 * 打造Linux系统安全审计功能
 ![omserver](http://blog.liuts.com/attachment/201410/1412483222_1313028a.png)
+对C/S结构程序感兴趣的同学，提供OMserver的桌面版实现方法介绍
+![omanger](http://blog.liuts.com/attachment/201410/1412484913_21076168.png)
 
 ###3、课时安排与培训方式
 * 40个课时，单课时40分钟
@@ -49,7 +51,7 @@
 <br />
 <br />
 
-##【深圳 第二期】
+##=============【深圳 第二期】=============
 
 ##三、Docker技术实战
 
